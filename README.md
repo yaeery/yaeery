@@ -11,6 +11,6 @@
   + MS SQL Server
   + PostgreSQL
 *  IDE
-  + VS Studio
-  + IntelliJ IDEA
-  + Android Studio
+    + VS Studio
+    + IntelliJ IDEA
+    + Android Studio
