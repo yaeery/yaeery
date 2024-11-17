@@ -8,8 +8,8 @@
   + JS
   + Kotlin
 *  СУБД
-  + MS SQL Server
-  + PostgreSQL
+    + MS SQL Server
+    + PostgreSQL
 *  IDE
     + VS Studio
     + IntelliJ IDEA
