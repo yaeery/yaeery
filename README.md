@@ -1,8 +1,7 @@
 # Привет, я Роман 👋
 
 ## Мои навыки 🛠️
-<img src="https://github.com/yaeery/Images/blob/main/cpp.png" width="50">
-<img src="https://github.com/yaeery/Images/blob/main/CSharp.png" width="50">
+<img src="https://github.com/yaeery/Images/blob/main/cpp.png" width="50"><img src="https://github.com/yaeery/Images/blob/main/CSharp.png" width="50">
 <img src="https://github.com/yaeery/Images/blob/main/JS.png" width="50">
 <img src="https://github.com/yaeery/Images/blob/main/Kotlin.png" width="50">
 <img src="https://github.com/yaeery/Images/blob/main/SQL.png" width="50">
