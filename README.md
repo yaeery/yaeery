@@ -25,3 +25,5 @@
     + IntelliJ IDEA
     + Android Studio
 ----
+## Мои контакты
+Почта: kondrashow.roma@gmail.com
