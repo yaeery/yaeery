@@ -15,7 +15,7 @@
 <img src="https://github.com/yaeery/Images/blob/main/IIDEA.png" width="50">
 <img src="https://github.com/yaeery/Images/blob/main/AS.png" width="50">
 
-Список технологий и некоторых инструментов, которые я использую и изучаю:
+Список технологий и инструментов, которые я использую и изучаю:
 
 * Языки
   + С#
