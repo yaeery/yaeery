@@ -8,6 +8,7 @@
 ![Image alt](https://github.com/yaeery/Images/blob/main/SQL.png)
 ![Image alt](https://github.com/yaeery/Images/blob/main/SQLS.png)
 ![Image alt](https://github.com/yaeery/Images/blob/main/Posg.png)
+![Image alt](https://github.com/yaeery/Images/blob/main/VS.png)
 
 Вот список технологий и некоторых инструментов, которые я использую или изучаю:
 
