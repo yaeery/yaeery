@@ -2,7 +2,7 @@
 
 <img src="https://github.com/yaeery/Images/blob/main/Coder.gif"  width="250" align="center">
 
-
+----
 ## Мои навыки 🛠️
 <img src="https://github.com/yaeery/Images/blob/main/cpp.png" width="50"> <img src="https://github.com/yaeery/Images/blob/main/CSharp.png" width="50">
 <img src="https://github.com/yaeery/Images/blob/main/JS.png" width="50">
