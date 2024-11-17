@@ -12,7 +12,7 @@
 <img src="https://github.com/yaeery/Images/blob/main/SQLS.png" width="50">
 <img src="https://github.com/yaeery/Images/blob/main/Posg.png" width="50">
 <img src="https://github.com/yaeery/Images/blob/main/VS.png" width="50">
-<img src="https://github.com/yaeery/Images/blob/main/II.png" width="50">
+<img src="https://github.com/yaeery/Images/blob/main/IIDEA.png" width="50">
 <img src="https://github.com/yaeery/Images/blob/main/AS.png" width="50">
 
 Вот список технологий и некоторых инструментов, которые я использую или изучаю:
