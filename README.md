@@ -16,6 +16,7 @@
   + C++
   + JS
   + Kotlin
+  + SQL
 *  СУБД
     + MS SQL Server
     + PostgreSQL
