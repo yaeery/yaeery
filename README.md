@@ -1,6 +1,8 @@
 # Привет, я Роман 👋
-<img src="https://github.com/yaeery/Images/blob/main/Coder.gif" text-align="center">
-
+<style>
+   .img {text-align: center;}
+</style>
+<img src="https://github.com/yaeery/Images/blob/main/Coder.gif" class="img">
 ----
 
 ## Мои навыки 🛠️
