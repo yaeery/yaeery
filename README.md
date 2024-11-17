@@ -1,4 +1,6 @@
 # Привет, я Роман 👋
+<img src="https://github.com/yaeery/Images/blob/main/Coder.gif">
+----
 
 ## Мои навыки 🛠️
 <img src="https://github.com/yaeery/Images/blob/main/cpp.png" width="50"> <img src="https://github.com/yaeery/Images/blob/main/CSharp.png" width="50">
